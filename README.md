@@ -1,0 +1,1 @@
+Created a Customer Relation Management Model using Django framework. This allows user to manually add, remove, and visit the profie of concerned id and allows admin manage overall execution of the application.
